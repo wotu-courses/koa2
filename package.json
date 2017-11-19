@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.17.1",
     "co": "^4.6.0",
     "koa": "^2.4.1",
     "koa-body": "^2.5.0",
